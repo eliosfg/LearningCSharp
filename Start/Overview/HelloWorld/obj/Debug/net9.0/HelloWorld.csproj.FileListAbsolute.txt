@@ -1,0 +1,14 @@
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll

@@ -1,0 +1,15 @@
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\bin\Debug\net9.0\Comments.exe
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\bin\Debug\net9.0\Comments.deps.json
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\bin\Debug\net9.0\Comments.runtimeconfig.json
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\bin\Debug\net9.0\Comments.dll
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\bin\Debug\net9.0\Comments.pdb
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\Comments.AssemblyInfoInputs.cache
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\Comments.AssemblyInfo.cs
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\Comments.dll
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\refint\Comments.dll
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\Comments.pdb
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\Comments.genruntimeconfig.cache
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\obj\Debug\net9.0\ref\Comments.dll
+C:\Users\Saul\Desktop\Csharp\LearningCSharp\DotNet9\Start\Overview\Comments\bin\Debug\net9.0\Comments
