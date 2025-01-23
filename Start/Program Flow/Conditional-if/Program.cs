@@ -9,6 +9,14 @@ namespace Conditionals
             int theVal = 50;
 
             // TODO: if-else 
+            if (theVal == 50)
+            {
+                Console.WriteLine("theVal is 50");
+            }
+            else
+            {
+                Console.WriteLine("theVal is not 50");
+            }
 
 
             // -----------------------
